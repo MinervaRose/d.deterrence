@@ -35,7 +35,7 @@ Includes several game states, life count, score management.
 
 ## Screenshot
 
-<img src="https://user-images.githubusercontent.com/39020690/51057882-f1690900-15b4-11e9-86db-05c39af78e14.png" width="600">
+<img src="https://user-images.githubusercontent.com/39020690/51058490-eca55480-15b6-11e9-8649-9bb28f9e7666.png" width="500">
 
 ## Further developments
 
