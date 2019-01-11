@@ -1,4 +1,4 @@
-# d.deterrence 
+# d.deterrence :space_invader: :space_invader: :space_invader:
 This space invader Android game app was created a few months after graduating from the Android Basics Nanodegree by Google, and a few days after watching the Dr Who New Year special episode Resolution. I'm a fan. 
 This is a self-directed student project. 
 
@@ -24,7 +24,7 @@ This first version of the project allowed me to work with android.graphics conce
 * [RectF](https://developer.android.com/reference/android/graphics/RectF) to represent graphic objects
 
 
-## Description :milky_way: :crescent_moon:
+## Description :milky_way: :crescent_moon: :space_invader:
 
 A classic space invader android app game revamped. 
 Includes several game states, life count, score management. 
