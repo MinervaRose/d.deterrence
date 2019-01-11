@@ -1,12 +1,12 @@
-# d.deterrence
+# d.deterrence 
 This space invader Android game app was created a few months after graduating from the Android Basics Nanodegree by Google, and a few days after watching the Dr Who New Year special episode Resolution. I'm a fan. 
 This is a self-directed student project. 
 
-## Overly dramatic trailer
+## Overly dramatic trailer :collision:
 
 [![image alt text](https://user-images.githubusercontent.com/39020690/51015571-c2ae4c80-153a-11e9-84fa-e6963e44c0f6.png)](https://youtu.be/U7TU8Ob7hJA)
 
-## Project overview
+## Project overview 
 
 This first version of the project allowed me to work with android.graphics concepts:
 
@@ -24,7 +24,7 @@ This first version of the project allowed me to work with android.graphics conce
 * [RectF](https://developer.android.com/reference/android/graphics/RectF) to represent graphic objects
 
 
-## Description 
+## Description :milky_way: :crescent_moon:
 
 A classic space invader android app game revamped. 
 Includes several game states, life count, score management. 
@@ -33,6 +33,10 @@ Includes several game states, life count, score management.
 
 * The pixel sprites were designed with the help of [this tutorial](https://design.tutsplus.com/tutorials/render-a-simple-3d-pixel-space-invaders-in-adobe-illustrator--cms-21185). For pixel-perfect artwork using Adobe Illustrator, check out [this tutorial](https://design.tutsplus.com/tutorials/how-to-create-pixel-perfect-artwork-using-adobe-illustrator--cms-23907). Avoid using anti-alias and gradients as advised [here](https://www.raywenderlich.com/2888-introduction-to-pixel-art-for-games). 
 
+## Screenshot
+
+<img src="https://user-images.githubusercontent.com/39020690/51057882-f1690900-15b4-11e9-86db-05c39af78e14.png" width="400">
+
 ## Further developments
 
 Further development will include:
@@ -40,7 +44,7 @@ Further development will include:
 * Increasing the variety of villains
 * Giving the user choice of gameplay music
 
-## My feedback as a student
+## My feedback as an Android app development student :mortar_board:
 
 Creating a game on your own is a great way to learn. When following a course, there can be too much hand-holding and not enough thinking. You can only solve problems if you actually encounter some! Using characters of one of my favorite shows increased my motivation. Customising a well-known game provided a good level of coding challenge.  
 
