@@ -19,8 +19,8 @@ This first version of the project allowed me to work with android.graphics conce
 * Posting it to the surface
 * Implementing pause() and resume() to start a new thread
 * Handling user-touches and other data input that affects drawing
-* The [Canvas class](https://developer.android.com/reference/android/graphics/Canvas) holds the "draw" calls. To draw something, you need 4 basic components: A Bitmap to hold the pixels, a Canvas to host the draw calls (writing into the bitmap), a drawing primitive (e.g. Rect, Path, text, Bitmap), and a paint (to describe the colors and styles for the drawing)
-* BitmapFactory
+* The [Canvas class](https://developer.android.com/reference/android/graphics/Canvas) holds the "draw" calls. To draw something, you need 4 basic components: a Bitmap to hold the pixels, a Canvas to host the draw calls (writing into the bitmap), a drawing primitive (e.g. Rect, Path, text, Bitmap), and a paint (to describe the colors and styles for the drawing)
+* BitmapFactory class: using a BitmapFactory, you can create bitmaps in three common ways: from a resource, a file, or an InputStream. [Handling large images to avoid the OOM (out of memory) exception](http://www.informit.com/articles/article.aspx?p=2143148&seqNum=2). 
 * [RectF](https://developer.android.com/reference/android/graphics/RectF) to represent graphic objects
 
 
@@ -32,9 +32,9 @@ Includes several game states, life count, score management.
 ## Further developments
 
 Further development will include:
-* create more levels
-* increase the variety of villains
-* give choice of gameplay music
+* Creating more levels
+* Increasing the variety of villains
+* Giving the user choice of gameplay music
 
 
-*Kind notice: as stated above this is a personal student project. I am neither providing the code, graphic assets, or distributing this project. Video trailer made whimsically with imovie, music by itunes, pixel artwork and fan art by me. 
+*Kind notice: as stated above this is a personal student project. I am neither providing the code, graphic assets, or distributing this project. Video trailer made whimsically with imovie, music by itunes, pixel artwork and fan art by me.* 
