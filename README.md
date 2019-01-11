@@ -37,4 +37,4 @@ Further development will include:
 * Giving the user choice of gameplay music
 
 
-*Kind notice: as stated above this is a personal student project. I am neither providing the code, graphic assets, or distributing this project. Video trailer made whimsically with imovie, music by itunes, pixel artwork and fan art by me.* 
+*Kind notice: as stated above this is a personal student project created by me, Sabrina Palis. I am neither providing the code, graphic assets, or distributing this project. Video trailer made whimsically with imovie, music by itunes, pixel artwork and fan art by me.* 
