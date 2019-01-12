@@ -1,6 +1,6 @@
 # d.deterrence :space_invader: :space_invader: :space_invader:
 This space invader Android game app was created a few months after graduating from the Android Basics Nanodegree by Google, and a few days after watching the Dr Who New Year special episode Resolution. I'm a fan. 
-This is a self-directed student project. 
+This is a self-directed student project. Click to watch the overly dramatic trailer.
 
 ## Overly dramatic trailer :collision:
 
