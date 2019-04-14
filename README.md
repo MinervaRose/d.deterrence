@@ -43,10 +43,7 @@ Further development will include:
 * Creating more levels
 * Increasing the variety of villains
 * Giving the user choice of gameplay music
-
-## My feedback as an Android app development student :mortar_board:
-
-Creating a game on your own is a great way to learn. When following a course, there can be too much hand-holding and not enough thinking. You can only solve problems if you actually encounter some! Using characters of one of my favorite shows increased my motivation. Customising a well-known game provided a good level of coding challenge.  
+  
 
 
 *Kind notice: as stated above this is a personal student project created by me, Sabrina Palis. I am neither providing the code, graphic assets, or distributing this project. Video trailer made whimsically with imovie, music by itunes, pixel artwork and fan art by me. This repo entry was done with the hope of providing inspiration to other coding students and future students* 
